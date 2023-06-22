@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/quartificate/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/quartificate/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/quartificate/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/quartificate/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/quartificate/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/quartificate/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/quartificate/reference/quartificate.html</loc>
+  </url>
+</urlset>
