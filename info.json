@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f5917413b0d679fedf25c49f2b9ceafb28a4289b",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-03-09T07:56:27Z",
+    "files": 3,
+    "merge": false,
+    "message": "docs: safeguard example\n"
+  },
+  "repo": "https://github.com/ropenscilabs/quartificate",
+  "pkg": "quartificate",
+  "time": "2026-08-30T07:25:55Z"
+}
